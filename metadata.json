@@ -1,0 +1,6 @@
+{
+  "name": "دانگ‌چاشت - سامانه دنگ و صبحانه تیمی شرکت",
+  "description": "سامانه جامع برنامه‌ریزی، نظرسنجی تمایل، انتخاب مکان، قوانین طلایی و محاسبه دقیق دنگ صبحانه کاری دورهمی شرکت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
